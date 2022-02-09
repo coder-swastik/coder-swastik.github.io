@@ -1,0 +1,32 @@
+
+img{
+	border-radius: 50%;
+	width: 400px;
+	box-shadow:red;
+}
+.content{
+	float: left;
+	width: 33.33%;
+	display: block;
+}
+body{
+	font-family: 'Crimson Pro',serif;
+	background-color: palegoldenrod;
+	text-align: center;
+}
+h1, p{
+	font-family: 'Lobster',cursive;
+	color: #e22f8f;
+}
+h1{
+	font-size: 40px;
+}
+.clear{
+	clear:  both;
+}
+.chant{
+  border: 5px dashed red;
+  outline: 3.5px dashed yellow;
+  padding: 50px;
+  margin: 20px;
+}
