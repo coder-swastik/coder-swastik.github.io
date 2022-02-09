@@ -9,6 +9,11 @@ img{
 	width: 33.33%;
 	display: block;
 }
+.content1{
+	float: left;
+	width: 33.33%;
+	display: block;
+}
 body{
 	font-family: 'Crimson Pro',serif;
 	background-color: palegoldenrod;
