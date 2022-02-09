@@ -30,3 +30,24 @@ h1{
   padding: 50px;
   margin: 20px;
 }
+@media only screen and (max-width: 1060px) {
+
+
+  .chant{
+  border: 5px dashed red;
+  outline: 3.5px dashed yellow;
+  padding: 10px;
+  margin: 5px;
+    margin: 0 auto;
+  }
+  .content{
+  	float: left;
+  	width: 33.3%;
+  	display: block;
+  }
+  img{
+	border-radius: 50%;
+	width: 150px;
+	box-shadow:red;
+}
+ }
